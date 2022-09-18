@@ -1,2 +1,6 @@
+.emocchi/
+.bundle/
+vendor/
 images/
+Gemfile.lock
 macros.json
